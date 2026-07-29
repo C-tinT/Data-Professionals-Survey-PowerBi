@@ -16,6 +16,7 @@ The final product will include a comparison between salary and job roles, gender
   Another example was the 'Current Yearly Salary' which contained pay brackets (due to the structure of the survey). This meant that we also had a string type of data.
 The solution was to split the column by delimiter, get the limits of the pay ranges and then calculate the AVG in a new custom column. 
 
+## The Dashboard Preview
 
 
 
@@ -30,7 +31,8 @@ The solution was to split the column by delimiter, get the limits of the pay ran
 
 
 
-Data Source: https://github.com/AlexTheAnalyst/Power-BI/tree/main
+
+Data Source: https://github.com/AlexTheAnalyst/Power-BI/tree/main/Power BI - Final Project.xlsx
 
 ## Conclusions
 
