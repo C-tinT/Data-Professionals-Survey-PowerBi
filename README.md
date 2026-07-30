@@ -16,7 +16,6 @@ The final product will include a comparison between salary and job roles, gender
   Another example was the 'Current Yearly Salary' which contained pay brackets (due to the structure of the survey). This meant that we also had a string type of data.
 The solution was to split the column by delimiter, get the limits of the pay ranges and then calculate the AVG in a new custom column.
 
-**Data Source:** https://github.com/AlexTheAnalyst/Power-BI/tree/main/ Power BI - Final Project.xlsx
 
 ## The Dashboard Preview
 
@@ -38,4 +37,7 @@ The satisfaction with the salary is at 4.27. Both genders have rated these param
 
 - If there is data that doesn't fit the general pattern of your report consider adjusting it or removing. In both cases think carefully about how this is going to affect the final report.
 - The analysis could be extended to other variables. I've only included a few due to the limits of my dashboard.
-- As a consideration for future projects is that the survey is 4-5 years ago, so further analysis on fresh data could reveal interesting details about the current trends. 
+- As a consideration for future projects is that the survey is 4-5 years ago, so further analysis on fresh data could reveal interesting details about the current trends.
+
+-----------------------
+**Data Source:** https://github.com/AlexTheAnalyst/Power-BI/tree/main/ Power BI - Final Project.xlsx
